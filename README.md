@@ -9,3 +9,5 @@ Obliquity works in conjunction with millennial-scale precipitation changes, such
 
 Paper DOI: https://doi.org/10.1016/j.quascirev.2022.107402
 Dataset DOI: https://doi.org/10.1594/PANGAEA.943713
+
+Keywords: Quaternary; South America; Vegetation; Orbital forcing; Long chain n-alkanes; Paleoclimatology
