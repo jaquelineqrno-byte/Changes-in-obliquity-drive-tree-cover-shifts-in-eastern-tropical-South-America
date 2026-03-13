@@ -6,3 +6,6 @@ Periods of high obliquity cause greater hemispheric temperature contrast (summer
 During maximum obliquity, this reduced dry season allows forest-dominated vegetation to expand, while minimum obliquity hampers it, leading to increased grasses.
 Obliquity works in conjunction with millennial-scale precipitation changes, such as Heinrich Stadials, which further influence moisture availability, though obliquity provides the underlying, long-term pattern.
 
+
+Paper DOI: https://doi.org/10.1016/j.quascirev.2022.107402
+Dataset DOI: https://doi.org/10.1594/PANGAEA.943713
